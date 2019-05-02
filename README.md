@@ -1,6 +1,6 @@
 # Agenda telefónica de Python
 
-Instrucciones para la agenda telefónica:
+Instrucciones para la agenda telefónica: <br>
 Al iniciar el programa, nos dará la bienvenida y nos dará 6 opciones a elegir según lo que queramos hacer en ese momento. Esto se repetirá al completar cada uno de los pasos de cada opción. 
 
 Al introducir el número "1", para agregar un contacto nuevo, nos preguntará por el nombre por el cuál queremos añadirlo y su número de teléfono. Un mensaje nos informará de que el contacto ha sido correctamente añadido.
