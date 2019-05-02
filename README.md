@@ -1,4 +1,4 @@
-# python
+# Agenda telefónica de Python
 
 Instrucciones para la agenda telefónica:
 Al iniciar el programa, nos dará la bienvenida y nos dará 6 opciones a elegir según lo que queramos hacer en ese momento. Esto se repetirá al completar cada uno de los pasos de cada opción. 
